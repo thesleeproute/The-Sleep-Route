@@ -19,7 +19,7 @@ const contactInfo = [
     icon: Clock,
     title: "Response Time",
     description: "Most enquiries answered within one working day",
-    detail: "Monday to Friday",
+    detail:
   },
   {
     icon: Heart,
